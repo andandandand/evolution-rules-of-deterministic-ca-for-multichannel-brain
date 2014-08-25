@@ -21,4 +21,5 @@ Code is under the [GNU LGPL v3 license](http://www.gnu.org/licenses/lgpl.html)
 
 ###Corresponding author, codebase maintainer, and copyright owner:
 -*Antonio Rueda Toicen*
+
  antonio.rueda.toicen [at]  gmail dot com
