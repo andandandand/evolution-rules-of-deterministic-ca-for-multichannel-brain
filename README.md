@@ -4,7 +4,7 @@ CUDA kernels + Matlab invocations scripts.
 
 Using this code for scientific publications requires attribution and citation of the document:
 
-**EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI**
+*EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI*
 
 *Antonio Rueda Toicen, *
 *Rhadamés Carmona, *
