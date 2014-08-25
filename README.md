@@ -19,6 +19,6 @@ Full results of tests can be found [here](http://bit.ly/1vddjyc)
 
 Code is under the [GNU LGPL v3 license](http://www.gnu.org/licenses/lgpl.html)
 
-Corresponding author:
--Antonio Rueda Toicen
- antonio.rueda.toicen@gmail.com
+###Corresponding author:
+-*Antonio Rueda Toicen*
+ antonio.rueda.toicen [at]  gmail dot com
