@@ -1,16 +1,16 @@
 #EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI
 
-**CUDA kernels for fast CA evolution + Matlab invocations scripts.** 
+**CUDA kernels for fast CA evolution + Matlab invocation scripts.** 
 
 ![alt text](https://github.com/andandandand/evolution-rules-of-deterministic-ca-for-multichannel-brain/blob/master/3D-GrowCutSegmentation.png "3D GrowCut Segmentation")
 
 Using this code for scientific publications requires attribution and citation of the document:
 
-*EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI*
+**EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI**
 
-*Antonio Rueda Toicen, *
-*Rhadamés Carmona, *
-*Miguel Martín Landrove, *
+*Antonio Rueda Toicen,*
+*Rhadamés Carmona,*
+*Miguel Martín Landrove,*
 *Wuilian Torres*
 
 *Proceedings of the CIMENICS 2014, SVMNI, pages PI25-PI30, ISBN 978-980-7161-04-6, 2014*
