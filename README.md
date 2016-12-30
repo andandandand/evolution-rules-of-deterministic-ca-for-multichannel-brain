@@ -17,6 +17,19 @@ Using this code for scientific publications requires attribution and citation of
 
 *Proceedings of the CIMENICS 2014, SVMNI, pages PI25-PI30, ISBN 978-980-7161-04-6, 2014*
 
+Bibtex entry:
+```
+inproceedings{rueda-toicen2014,
+  author = {Antonio Rueda-Toicen and Rhadames Carmona and Miguel Martin Landrove and Wuilian Torres},
+  title = {Evolution Rules of Deteministic Cellular Automata for Multichannel Segmentation of Brain Tumors in MRI},
+  booktitle = {Proceedings of CIMENICS XII},
+  publisher = {Sociedad Venezolana de M\'{e}todos Num\'{e}ricos en Ingenier\'{i}a},
+  pages = {PI25--PI30},
+  year = {2014}
+}
+```
+
+
 Curated test datasets can be found [here](http://bit.ly/1ns1g8k)
 
 Full results of tests can be found [here](http://bit.ly/1vddjyc)
