@@ -1,4 +1,4 @@
-#EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI
+# EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI
 
 **CUDA kernels for fast CA evolution + Matlab invocation scripts.** 
 
@@ -36,7 +36,7 @@ Full results of tests can be found [here](http://bit.ly/1vddjyc)
 
 Code is under the [GNU LGPL v3 license](http://www.gnu.org/licenses/lgpl.html)
 
-###Corresponding author, codebase maintainer, and copyright owner:
+### Corresponding author, codebase maintainer, and copyright owner:
 -*Antonio Rueda Toicen*
 
  antonio.rueda.toicen [at]  gmail dot com
