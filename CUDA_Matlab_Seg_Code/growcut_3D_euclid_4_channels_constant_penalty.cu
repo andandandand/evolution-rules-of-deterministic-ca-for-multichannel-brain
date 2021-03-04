@@ -3,10 +3,9 @@
 // info on thread indices:  http://stackoverflow.com/questions/7318002/3d-image-indices
 
 __global__ void update_old_step ( const float          *d_new_strength,
-                                       float			   *d_strength,
+                                        float	           *d_strength,
                                   const unsigned char     *d_new_label,							
-                                        unsigned char		  *d_label,
-
+                                        unsigned char	      *d_label,
                                   const int                      xDim, 
                                   const int                      yDim,
                                   const int                      zDim)
@@ -30,30 +29,24 @@ __global__ void update_old_step ( const float          *d_new_strength,
 
 
 
-__global__ void evol_cells(  const float  			  		    *d_channelOne,
-							 const float  			  		    *d_channelTwo,
-							 const float                      *d_channelThree,
-							 const float                       *d_channelFour,
-                             
-                             const float 					      *d_strength,
-						     const unsigned char 			         *d_label,
-                             	    
-                             	   float 			  	      *d_new_strength,
-							 	   unsigned char 	  	         *d_new_label,
-							       unsigned char 	        *d_still_updating,
-
-							 const float                        *norm_2_means,
-							 const float                        *norm_2_sdevs,
-							 
-							 const float 								ndevs,
- 							 const float 						 high_penalty,
- 							 const float 						  low_penalty,
-
-                             const int                                   xDim, 
-							 const int                                   yDim, 
-							 const int                                   zDim,
-							 
-							 const float                            max_norm_2)
+__global__ void evol_cells(const float  *d_channelOne,
+			   const float  *d_channelTwo,
+			   const float  *d_channelThree,
+			   const float  *d_channelFour,                   
+                           const float 	*d_strength,
+			   const unsigned char *d_label,                             	    
+                                  float *d_new_strength,
+			  unsigned char *d_new_label,
+			  unsigned char *d_still_updating,
+			  const float   *norm_2_means,
+			  const float   *norm_2_sdevs,				 
+			  const float 	ndevs,
+ 			  const float 	high_penalty,
+ 			  const float 	low_penalty,
+                          const int     xDim, 
+			  const int     yDim, 
+			  const int     zDim,				 
+			  const float   max_norm_2)
 {
 
   
