@@ -1,4 +1,4 @@
-# EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI
+# Evolution Rules of GPU-Accelerated Cellular Automata for Multichannel Segmentation of Brain Tumors in Multimodal Magnetic Resonance Imaging
 
 **CUDA kernels for fast CA evolution + Matlab invocation scripts.** 
 
