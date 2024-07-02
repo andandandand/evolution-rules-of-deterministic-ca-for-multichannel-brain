@@ -6,7 +6,7 @@
 
 Using this code for scientific publications requires attribution and citation of the document:
 
-[**EVOLUTION RULES OF DETERMINISTIC CELLULAR AUTOMATA FOR MULTICHANNEL SEGMENTATION OF BRAIN TUMORS IN MRI**](https://www.researchgate.net/publication/259312444_Evolution_Rules_of_Deterministic_Cellular_Automata_for_Multichannel_Segmentation_of_Brain_Tumors_in_MRI "Download in ResearchGate")
+[**Evolution Rules of Deterministic Cellular Automata for Multichannel Segmentation of Brain Tumors in MRI**](https://www.researchgate.net/publication/259312444_Evolution_Rules_of_Deterministic_Cellular_Automata_for_Multichannel_Segmentation_of_Brain_Tumors_in_MRI "Download in ResearchGate")
 
 
 
